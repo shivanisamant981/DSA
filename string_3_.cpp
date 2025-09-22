@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+//KMP 
 //Hi Anonymous what you doing here are you doing good yes okay that's great  
 vector<int> findLPS(string s){
             int n=s.size();
