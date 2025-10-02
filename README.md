@@ -5,6 +5,7 @@ totalCount=6
 
 array
 1.largest element in an array
+2.second largest element in an array without sorting
 
 
 
