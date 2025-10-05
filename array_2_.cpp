@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+//second largest element
 class solution{
 
  public:
