@@ -26,6 +26,7 @@ stack
 4-
 5-
 6-Balance parenthesis <br>
+7-Infix to postfix
 
 
 
