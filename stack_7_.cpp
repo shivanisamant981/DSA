@@ -35,7 +35,7 @@ string InfixToPost(string s){
             st.pop();
         }
         else{
-            while(!st.empty() && prec(s[i])<=prec(st.top())){ //jo string se aaya vo chota hai and st me already tha vo bada nahi seh skte
+            while(!st.empty() && prec(s[i])<=prec(st.top()) && s[i]!='^'){ //jo string se aaya vo chota hai and st me already tha vo bada nahi seh skte
                 ans+=st.top();
                 st.pop();
                 
